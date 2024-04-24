@@ -330,6 +330,7 @@ section
    width:100%;
    border:0px solid;
    margin: .7rem 0;
+
    background: #eee;
    border-radius: .5rem;
    padding:1rem;
@@ -360,11 +361,11 @@ section
      border: 0px solid;
      display: flex;
      justify-content: center;
-     background: url(../image/banner-img.jpg) no-repeat;
+     background: url(banner-img.jpg) no-repeat;
      background-position: center;
      background-size: cover;
      padding-top: 17rem;
-         padding-bottom : 10rem;
+     padding-bottom : 10rem;
 } 
 
 .home .content
